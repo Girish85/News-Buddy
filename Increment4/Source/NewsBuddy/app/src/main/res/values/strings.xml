@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NewsBuddy</string>
+    <string-array name="categories">
+        <item>Sports</item>
+        <item>General</item>
+        <item>Finance</item>
+        <item>Technology</item>
+        <item>Environment</item>
+        <item>Entertainment</item>
+        <item>Gaming</item>
+    </string-array>
+    <string name="title">Sports</string>
+</resources>
